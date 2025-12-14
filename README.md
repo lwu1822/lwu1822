@@ -3,7 +3,7 @@ Hi, I'm Lily. I’m a motivated and driven computer science student with a deep 
 My interests include full-stack development, backend/frontend engineering, and AI/ML. I’m also open to roles in cybersecurity, network engineering, and quality assurance.
 
 Experiences:
-- Software Engineering Intern at Northrop Grumman (2024 and 2025 summer)
+- Software Engineering Intern at Northrop Grumman Corporation (2024 and 2025 summer)
 - Software Engineering Intern (Part-time) at Nighthawk Coding Society (2023)
 - National Champion of CyberPatriot XV Cisco Networking Challenge (Cybersecurity competition hosted by Air Force Association) (2023) 
 - National Third Place of CyberPatriot XV Finals (2023)
