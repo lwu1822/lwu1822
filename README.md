@@ -1,6 +1,6 @@
 Hi, I'm Lily. I’m a motivated and driven computer science student with a deep passion for software engineering and technology. I love building, debugging, and solving problems, and I’m always looking for new opportunities to learn and challenge myself.
 
-My interests include full-stack development, backend/frontend engineering, and AI/ML. I’m also open to roles in cybersecurity, network engineering, and quality assurance.
+I have hands-on experience in full-stack development, backend/frontend engineering, and AI/ML, with additional background in cybersecurity, network engineering, and quality assurance. I’m open to exploring a variety of roles across the technology space.
 
 Experiences:
 - Software Engineering Intern at Northrop Grumman Corporation (2024 and 2025 summer)
