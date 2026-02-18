@@ -5,8 +5,8 @@ I have hands-on experience in full-stack development, backend/frontend engineeri
 Experiences:
 - Software Engineering Intern at Northrop Grumman Corporation (2024 and 2025 summer)
 - Software Engineering Intern (Part-time) at Nighthawk Coding Society (2023)
-- National Champion of CyberPatriot XV Cisco Networking Challenge (Cybersecurity competition hosted by Air Force Association) (2023) 
-- National Third Place of CyberPatriot XV Finals (2023)
+- National Champion of CyberPatriot XV Cisco Networking Challenge (Cybersecurity competition hosted by Air Force Association) 
+- National Second Place of CyberPatriot XVI Finals 
 
 Skills:
 
@@ -26,7 +26,7 @@ Cybersecurity: Shell scripting, Nessus, Splunk, securing Linux and Windows opera
 
 [LinkedIn](https://www.linkedin.com/in/lilywu07/)
 
-Thank you for stopping by. Have a great day!
+Thank you for reading. Have a great day!
 
 <!--
 **lwu1822/lwu1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
