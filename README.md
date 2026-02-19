@@ -26,7 +26,7 @@ Cybersecurity: Shell scripting, Nessus, Splunk, securing Linux and Windows opera
 
 [LinkedIn](https://www.linkedin.com/in/lilywu07/)
 
-Thank you for reading. Have a great day!
+Thank you for visiting. Have a great day!
 
 <!--
 **lwu1822/lwu1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
