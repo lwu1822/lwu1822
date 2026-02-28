@@ -1,11 +1,11 @@
 Hi, I'm Lily. I’m a motivated and driven computer science student with a deep passion for software engineering and technology. I love building, debugging, and solving problems, and I’m always looking for new opportunities to learn and challenge myself.
 
-I have hands-on experience in full-stack development, backend/frontend engineering, and AI/ML, with additional background in cybersecurity, network engineering, and quality assurance. I’m open to exploring a variety of roles across the technology space.
+I have hands-on experience in full-stack (frontend/backend) development and AI/ML, with additional background in cybersecurity, network engineering, and quality assurance. I’m open to exploring a variety of roles across the technology space.
 
 Experiences:
 - Software Engineering Intern at Northrop Grumman Corporation (2024 and 2025 summer)
-- Software Engineering Intern (Part-time) at Nighthawk Coding Society (2023)
-- National Champion of CyberPatriot XV Cisco Networking Challenge (Cybersecurity competition hosted by Air Force Association) 
+- Software Engineering Intern at Nighthawk Coding Society (2023)
+- National Champion of CyberPatriot XV Cisco Networking Challenge (Cybersecurity and networking competition hosted by the Air and Space Forces Association) 
 - National Second Place of CyberPatriot XVI Finals 
 
 Skills:
@@ -14,7 +14,7 @@ Programming languages: C++, Python, Java, C, JavaScript, HTML/CSS
 
 Frameworks/Databases/Cloud: React, React Native, Flask, Spring Boot, MongoDB, SQLite, Amazon Web Services
 
-Tools/Concepts: Git, GitHub, Linux, Postman, Docker, REST APIs, Frontend and backend software development, Data structures and algorithms, Agile software development
+Tools/Concepts: Git, GitHub, Linux, pytest, Cursor, Postman, Docker, REST APIs, Frontend and backend software development, Data structures and algorithms, Agile software development
 
 Networking: Configuring and securing networks, dynamic and static routing, switching, Virtual Private Networks (VPN), Network Address Translation (NAT), Access Control Lists (ACL), Adaptive Security Appliance (ASA)
 
