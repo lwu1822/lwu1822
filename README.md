@@ -14,7 +14,7 @@ Programming languages: C++, Python, Java, C, JavaScript, HTML/CSS
 
 Frameworks/Databases/Cloud: React, React Native, Flask, Spring Boot, MongoDB, SQLite, Amazon Web Services
 
-Tools/Concepts: Git, GitHub, Linux, pytest, Cursor, Postman, Docker, REST APIs, Frontend and backend software development, Data structures and algorithms, Agile software development
+Tools/Concepts: Git, GitHub, Linux, pytest, Cursor, Postman, Docker, REST APIs, Frontend and backend software development, Data structures and algorithms, Module testing, Agile software development
 
 Networking: Configuring and securing networks, dynamic and static routing, switching, Virtual Private Networks (VPN), Network Address Translation (NAT), Access Control Lists (ACL), Adaptive Security Appliance (ASA), Quality of Service (QoS)
 
