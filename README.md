@@ -10,11 +10,11 @@ Experiences:
 
 Skills:
 
-Programming languages: C++, Python, Java, C, JavaScript, HTML/CSS
+Programming languages: C++, Python, Java, C, TypeScript/JavaScript, HTML/CSS
 
-Frameworks/Databases/Cloud: React, React Native, Flask, Spring Boot, MongoDB, SQLite, Amazon Web Services
+Frameworks/Databases/Cloud: React, React Native, Node.js, Express.js, Flask, Spring Boot, Supabase, PostgreSQL, MongoDB, SQLite, Amazon Web Services
 
-Tools/Concepts: Git, GitHub, Linux, pytest, Cursor, Postman, Docker, REST APIs, Frontend and backend software development, Data structures and algorithms, Module testing, Agile software development
+Tools/Concepts: REST APIs, pytest, Git, GitHub, Linux, Cursor, Postman, Docker, Frontend and backend software development, Data structures and algorithms, Module testing, Agile software development
 
 Networking: Configuring and securing networks, dynamic and static routing, switching, Virtual Private Networks (VPN), Network Address Translation (NAT), Access Control Lists (ACL), Adaptive Security Appliance (ASA), Quality of Service (QoS)
 
