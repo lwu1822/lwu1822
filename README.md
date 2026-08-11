@@ -16,7 +16,7 @@ Frameworks/Databases/Cloud: React, React Native, Node.js, Express.js, Flask, Spr
 
 Tools/Concepts: REST APIs, pytest, Git, GitHub, Linux, Cursor, Postman, Docker, Frontend and backend software development, Data structures and algorithms, Module testing, Agile software development
 
-Networking: Configuring and securing networks, dynamic and static routing, switching, Virtual Private Networks (VPN), Network Address Translation (NAT), Access Control Lists (ACL), Adaptive Security Appliance (ASA), Quality of Service (QoS)
+Networking: Configuring and securing networks, dynamic and static routing, switching, Dynamic Host Configuration Protocol (DHCP), Virtual Private Networks (VPN), Network Address Translation (NAT), Access Control Lists (ACL), Adaptive Security Appliance (ASA), Quality of Service (QoS), Multicast Source Discovery Protocol (MSDP)
 
 Cybersecurity: Shell scripting, Nessus, Splunk, securing Linux and Windows operating systems
 
